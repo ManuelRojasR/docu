@@ -1,8 +1,6 @@
 ---
 id: importar-pictogramas-a-integraboard
 title: Importar pictogramas a IntegraBoard 
-sidebar_label: Importar pictogramas a IntegraBoard
-slug: /
 ---
 
 ### Prerrequisitos

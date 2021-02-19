@@ -1,8 +1,6 @@
 ---
 id: descargar-y-descomprimir-pictogramas
 title: Descargar y descomprimir pictogramas 
-sidebar_label: Descargar y descomprimir pictogramas
-slug: /
 ---
 
 ### Prerrequisitos
