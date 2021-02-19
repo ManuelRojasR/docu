@@ -43,3 +43,4 @@ title: Importar pictogramas a IntegraBoard
 
 ![Screeshot](./img/importar-pictogramas/8.png)
 
+[Tutorial]: ./descargar-y-descomprimir-pictogramas.md 

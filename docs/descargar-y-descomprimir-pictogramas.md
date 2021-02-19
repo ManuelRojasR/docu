@@ -43,4 +43,4 @@ title: Descargar y descomprimir pictogramas
 
 ## Siguientes pasos
 
-- Importar pictogramas a IntegraBoard
+- [Importar pictogramas a IntegraBoard](./importar-pictogramas-a-integraboard.md)
