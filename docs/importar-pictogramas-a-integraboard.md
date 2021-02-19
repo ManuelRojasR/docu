@@ -40,4 +40,3 @@
 
 ![Screeshot](./img/importar-pictogramas/8.png)
 
-[Tutorial]: xd

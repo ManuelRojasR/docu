@@ -40,4 +40,4 @@
 
 ## Siguientes pasos
 
-- [Importar pictogramas a IntegraBoard](xd)
+- Importar pictogramas a IntegraBoard
